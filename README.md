@@ -21,5 +21,4 @@ See the section about [running tests](#running-tests) for more information.
 
 ### `yarn coverage`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
+Generate coverage report
